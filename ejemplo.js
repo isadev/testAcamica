@@ -1,5 +1,6 @@
 "use strict";
 
+
 var existe = false;
 var miAmigo = "Marianna";
 
