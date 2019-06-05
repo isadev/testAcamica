@@ -1,6 +1,6 @@
 "use strict";
 
-var existe = false;
+var existe = false; 
 var miAmigo = "Marianna";
 
 function iniciarPrograma() {
